@@ -6,11 +6,12 @@ I used a cool project online to start my Happy Wheels experiments with. Original
 below:<br>
 #Make your own HILL CLIMB RACING <br>
 https://www.youtube.com/watch?v=DgG9us3QkTE <br>
+You will need to watch this video, download the project and get it running before copying over my changes <br>
 
 #Notes:
 <p>
-I usually start my Unity projects using other people art (code) in order to better understand what involved <br>
-This was a great example, but it had flaws I wanted to correct.
+I usually start my Unity projects using other peoples art (code) in order to better understand what involved <br>
+This was a great example, but it had flaws I wanted to correct. 
   
   1. I re-aranged the car parts to give better dynamics
   2. I added game objects to re-start the game if the driver dies (falls on head)
